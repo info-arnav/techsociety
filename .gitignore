@@ -1,0 +1,21 @@
+./projectname/node_modules/
+./projectname/.expo/
+./projectname/npm-debug.*
+./projectname/*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+./projectname/*.p8
+./projectname/*.p12
+./projectname/*.key
+./projectname/*.mobileprovision
+./projectname/*.orig.*
+./projectname/web-build/
+
+# macOS
+./projectname/DS_Store
+
+# take a look at this only
+private
