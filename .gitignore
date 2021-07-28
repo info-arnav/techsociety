@@ -1,21 +1,21 @@
-./projectname/node_modules/
-./projectname/.expo/
-./projectname/npm-debug.*
-./projectname/*.jks
+./projectnames/node_modules/
+./projectnames/.expo/
+./projectnames/npm-debug.*
+./projectnames/*.jks
 *.p8
 *.p12
 *.key
 *.mobileprovision
 *.orig.*
-./projectname/*.p8
-./projectname/*.p12
-./projectname/*.key
-./projectname/*.mobileprovision
-./projectname/*.orig.*
-./projectname/web-build/
+./projectnames/*.p8
+./projectnames/*.p12
+./projectnames/*.key
+./projectnames/*.mobileprovision
+./projectnames/*.orig.*
+./projectnames/web-build/
 
 # macOS
-./projectname/DS_Store
+./projectnames/DS_Store
 
 # take a look at this only
 private
